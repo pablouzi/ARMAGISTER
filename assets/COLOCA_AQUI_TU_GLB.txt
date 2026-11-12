@@ -1,0 +1,2 @@
+Copia tu modelo en esta carpeta y renómbralo a personaje.glb.
+El modelo debe contener las animaciones Idle y Action.
